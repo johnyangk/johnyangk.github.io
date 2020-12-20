@@ -17,13 +17,13 @@
 - 2011-2013, Ponple, Seoul, Co-founder
 
 **Open Source**
-- 2016-Current, Apache Nemo (Incubating), Commiter and PMC
-- 2014-Current, Apache REEF, Commiter and PMC
+- 2016-2021, Apache Nemo (Incubating), Commiter and PMC
+- 2014-2017, Apache REEF, Commiter and PMC
 
 **Talks**
-- 2019, ApacheCon, Las Vegas,
-- 2019, USENIX ATC, Renton, 
-- 2017, EuroSys, Serbia
+- 2019, ApacheCon, Las Vegas, Optimizing Big Data Pipelines with Apache Nemo (Incubating)
+- 2019, USENIX ATC, Renton, Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies
+- 2017, EuroSys, Serbia, Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters. ACM European Conference on Computer Systems
 
 **Others**
 - 2011, MIT Global Startup Workshop (MITGSW), Co-lead
