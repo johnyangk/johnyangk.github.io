@@ -1,3 +1,6 @@
+![profile](/profile.jpg){:class="img-responsive"}
+
+
 # My bio
 Hello World2
 
