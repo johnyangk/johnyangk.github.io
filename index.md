@@ -9,8 +9,8 @@
 
 **Selected Publications** ([Full list](https://dblp.org/pid/163/1540.html))
 - (Under submission) A paper about finding consensus bugs in Ethereum
-- Youngseok Yang, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, Won Wook Song, Byung-Gon Chun. Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies. USENIX Annual Technical Conference (ATC) 2019.
-- Youngseok Yang, Geon-Woo Kim, Won Wook Song, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, Byung-Gon Chun. Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters. ACM European Conference on Computer Systems (EuroSys) 2017.
+- **Youngseok Yang**, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, Won Wook Song, Byung-Gon Chun. Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies. USENIX Annual Technical Conference (ATC) 2019.
+- **Youngseok Yang**, Geon-Woo Kim, Won Wook Song, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, Byung-Gon Chun. Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters. ACM European Conference on Computer Systems (EuroSys) 2017.
 
 **Companies**
 - 2017, Google, Mountain View, Intern (Mentor: Sunghwan Ihm)
