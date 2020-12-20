@@ -23,7 +23,7 @@
 **Talks**
 - 2019, ApacheCon, Las Vegas, Optimizing Big Data Pipelines with Apache Nemo (Incubating)
 - 2019, USENIX ATC, Renton, Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies
-- 2017, EuroSys, Serbia, Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters. ACM European Conference on Computer Systems
+- 2017, EuroSys, Serbia, Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters
 
 **Others**
 - 2011, MIT Global Startup Workshop (MITGSW), Co-lead
