@@ -1,7 +1,6 @@
 <img src="/profile.jpg" width="300" />
 
-# John Youngseok Yang (양영석)
-# johnyangk at gmail dot com
+# John Youngseok Yang (양영석) | johnyangk at gmail dot com
 
 **Blockchains**
 - [Ethereum Bounty Program](https://bounty.ethereum.org), 20,000 Points 
