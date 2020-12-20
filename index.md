@@ -1,4 +1,4 @@
-<img src="/profile.jpg" width="200" />
+<img src="/profile.jpg" width="300" />
 
 # John Youngseok Yang (양영석)
 
