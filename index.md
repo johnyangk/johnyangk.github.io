@@ -1,5 +1,4 @@
-![profile](/profile.jpg =250x)
-
+<img src="/profile.jpg" width="200" />
 
 # My bio
 Hello World2
