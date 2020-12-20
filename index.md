@@ -13,7 +13,7 @@
 
 **Companies**
 - 2017, Google, Mountain View, Intern (Mentor: Sunghwan Ihm)
-- 2015, Microsoft Research Asia, Beijing, Research intern (Mentor: Zhengping Qian)
+- 2015, Microsoft Research Asia, Beijing, Research Intern (Mentor: Zhengping Qian)
 - 2011-2013, Ponple, Seoul, Co-founder
 
 **Open Source**
