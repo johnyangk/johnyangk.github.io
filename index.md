@@ -1,4 +1,4 @@
-<img src="/profile.jpg" width="300" />
+<img src="/profile.jpg" width="350" />
 
 # John Youngseok Yang (양영석) | johnyangk at gmail dot com
 
