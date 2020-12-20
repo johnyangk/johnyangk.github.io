@@ -1,4 +1,4 @@
-![profile](/profile.jpg){:class="img-responsive"}
+![profile](/profile.jpg =250x)
 
 
 # My bio
