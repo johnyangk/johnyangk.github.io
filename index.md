@@ -3,7 +3,7 @@
 # John Youngseok Yang (양영석)
 
 **Blockchains**
-- Ethereum Bug Bounty, 20,000 Points (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain))
+- [Ethereum Bug Bounty](https://bounty.ethereum.org), 20,000 Points (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain))
 
 **Selected Publications** ([Full list](https://dblp.org/pid/163/1540.html))
 - (Under submission) A paper about finding consensus bugs in Ethereum
