@@ -1,1 +1,3 @@
 remote_theme: johnyangk/jekyll-theme-scribbles
+colors:
+  link: "#800080"
