@@ -3,7 +3,7 @@
 # John Youngseok Yang (양영석)
 
 **Blockchains**
-- [Ethereum Bounty Program](https://bounty.ethereum.org), 20,000 Points 
+- [Ethereum Bounty Program](https://bounty.ethereum.org), 20K Points 
   - A bug I found caused the 2020/11/11 Ethereum hard fork (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain))
 
 **Selected Publications** ([Full list](https://dblp.org/pid/163/1540.html))
