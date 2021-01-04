@@ -1,6 +1,6 @@
 <img src="/profile.jpg" width="350" />
 
-# John Youngseok Yang (양영석)
+# John Youngseok Yang, PhD (양영석)
 
 **Blockchains**
 - [Ethereum Bounty Program](https://bounty.ethereum.org), 20K Points 
