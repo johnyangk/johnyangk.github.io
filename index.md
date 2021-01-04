@@ -33,3 +33,7 @@
 - 2014 - 2021, Ph.D. in Computer Science and Engineering, Seoul National University (Advisor: Byung-Gon Chun)
 - 2009 - 2014, B.A. in Business (Minor in Computer Science and Engineering), Seoul National University
 
+**Contact me**
+- E-mail: johnyangk at gmail dot com
+- Twitter: [@johnyangk](https://twitter.com/johnyangk)
+
