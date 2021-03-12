@@ -7,7 +7,7 @@
   - A bug I found caused the 2020/11/11 Ethereum hard fork (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain))
 
 **Selected Publications** ([Full list](https://dblp.org/pid/163/1540.html))
-- (Under submission) A paper about finding consensus bugs in Ethereum
+- A paper about finding consensus bugs in Ethereum. USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2021. (to appear)
 - **Youngseok Yang**, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, Won Wook Song, Byung-Gon Chun. Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies. USENIX Annual Technical Conference (ATC) 2019.
 - **Youngseok Yang**, Geon-Woo Kim, Won Wook Song, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, Byung-Gon Chun. Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters. ACM European Conference on Computer Systems (EuroSys) 2017.
 
