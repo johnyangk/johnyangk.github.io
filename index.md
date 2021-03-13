@@ -7,9 +7,9 @@
   - A bug I found caused the 2020/11/11 Ethereum hard fork (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain))
 
 **Selected Publications** ([Full list](https://dblp.org/pid/163/1540.html))
-- **Youngseok Yang**, Taesoo Kim, and Byung-Gon Chun. Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing. USENIX Symposium on Operating Systems Design and Implementation (OSDI) 2021. (to appear)
-- **Youngseok Yang**, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, Won Wook Song, Byung-Gon Chun. Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies. USENIX Annual Technical Conference (ATC) 2019.
-- **Youngseok Yang**, Geon-Woo Kim, Won Wook Song, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, Byung-Gon Chun. Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters. ACM European Conference on Computer Systems (EuroSys) 2017.
+- **Youngseok Yang**, Taesoo Kim, and Byung-Gon Chun. Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing. In Proceedings of the 15th Symposium on Operating Systems Design and Implementation (OSDI 2021). (to appear)
+- **Youngseok Yang**, Jeongyoon Eo, Geon-Woo Kim, Joo Yeon Kim, Sanha Lee, Jangho Seo, Won Wook Song, Byung-Gon Chun. Apache Nemo: A Framework for Building Distributed Dataflow Optimization Policies. In Proceedings of the 2019 USENIX Conference on Usenix Annual Technical Conference (ATC 2019).
+- **Youngseok Yang**, Geon-Woo Kim, Won Wook Song, Yunseong Lee, Andrew Chung, Zhengping Qian, Brian Cho, Byung-Gon Chun. Pado: A Data Processing Engine for Harnessing Transient Resources in Datacenters. In Proceedings of the 12th European Conference on Computer Systems (EuroSys 2017).
 
 **Companies**
 - 2017, Google, Mountain View, Intern (Mentor: Sunghwan Ihm)
