@@ -4,7 +4,7 @@
 
 **Blockchains**
 - [Ethereum Bounty Program](https://bounty.ethereum.org), 20K Points 
-  - I found and reported two critical consensus bugs in Ethereum. One of the bugs lead to the 2020/11/11 Ethereum hard fork (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain))
+  - I found and reported two critical consensus bugs in Ethereum. One of the bugs lead to the 2020/11/11 Ethereum hard fork (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain), [Korean News](https://news.v.daum.net/v/20210407103321396))
 
 **Selected Publications** ([Full list](https://dblp.org/pid/163/1540.html))
 - **Youngseok Yang**, Taesoo Kim, and Byung-Gon Chun. Finding Consensus Bugs in Ethereum via Multi-transaction Differential Fuzzing. In Proceedings of the 15th Symposium on Operating Systems Design and Implementation (OSDI 2021). (to appear)
