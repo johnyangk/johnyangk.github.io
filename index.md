@@ -35,5 +35,4 @@
 
 **Contact me**
 - E-mail: johnyangk at gmail dot com
-- Twitter: [@johnyangk](https://twitter.com/johnyangk)
 
