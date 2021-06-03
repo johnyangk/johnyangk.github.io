@@ -14,7 +14,7 @@
 **Companies**
 - 2017, Google, Mountain View, Intern (Mentor: Sunghwan Ihm)
 - 2015, Microsoft Research Asia, Beijing, Research Intern (Mentor: Zhengping Qian)
-- 2011-2013, Ponple, Seoul, Co-founder
+- 2011-2013, Ponple, Seoul, Marketing lead
 
 **Open Source**
 - 2016-2021, Apache Nemo (Incubating), Commiter and PMC
