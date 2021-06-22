@@ -2,6 +2,8 @@
 
 # John Youngseok Yang, PhD (양영석)
 
+(2021~) I am currently working on a new NFT(Non-Fungible Token) marketplace: www.mirny.io
+
 **Blockchains**
 - [Ethereum Bounty Program](https://bounty.ethereum.org), 20K Points 
   - I found and reported two critical consensus bugs in Ethereum. One of the bugs led to the 2020/11/11 Ethereum hard fork (News: [Coindesk](https://www.coindesk.com/ethereums-hard-fork-disruption), [Decrypt](https://decrypt.co/47891/how-a-dormant-bug-briefly-split-the-ethereum-blockchain), [Korean News](https://news.v.daum.net/v/20210407103321396))
