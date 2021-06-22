@@ -2,7 +2,7 @@
 
 # John Youngseok Yang, PhD (양영석)
 
-(2021-) I am currently working on a new NFT(Non-Fungible Token) marketplace: www.mirny.io
+(2021-Now) I am currently working on a new NFT(Non-Fungible Token) marketplace: www.mirny.io
 
 **Blockchains**
 - [Ethereum Bounty Program](https://bounty.ethereum.org), 20K Points 
