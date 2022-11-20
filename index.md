@@ -2,7 +2,7 @@
 
 # John Youngseok Yang, PhD (양영석)
 
-(2021-Now) CEO & Founder of Mirny, a blockchain infrastructure SaaS company
+(2021-Now) CEO & Founder of Nodeinfra(Mirny Inc.), a blockchain node-as-a-service provider. [We're hiring.](https://www.rocketpunch.com/companies/mirny)
 
 **Blockchains**
 - [Ethereum Bounty Program](https://bounty.ethereum.org), 20K Points 
